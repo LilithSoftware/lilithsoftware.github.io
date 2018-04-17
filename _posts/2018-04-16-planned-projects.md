@@ -35,3 +35,10 @@ will be able to pick up on clues in the region while hunting the monster
 in order to better prepare for the face-off. While focusing on Norse
 mythology, expansions might come to include other cultures lore as 
 hunting destinations.
+
+---
+#### Black Watch
+A tactical bullet hell game giving homage to other tactical arcade
+games such as SOCOM Navy Seals with the addition of a 3rd AI team
+offering resistance to both teams. Planned game modes include 
+Suppression, Demolition, Control Points, and Extraction. 
