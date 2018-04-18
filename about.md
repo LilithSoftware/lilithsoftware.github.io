@@ -14,9 +14,10 @@ and Aseprite for all art assets.
 
 Libraries Used by the Studio:
 
-- Gamera by kikito
 - rotLove by paulofmandown
 - LUIGI by airstruck
+- Gamera by kikito
+- lua-cassandra by kikito
 - anim8 by kikito
 - bump.lua by kikito
 - lilith by LilithSoftware
