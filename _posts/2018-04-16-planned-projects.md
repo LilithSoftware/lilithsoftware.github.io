@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Our Planned Work"
-date:   2018-04-16 22:10:00 -0700
+date:   2018-04-17 20:13:00 -0700
 categories: lilith projects
 ---
 ---
@@ -24,17 +24,6 @@ developed to make the process even easier for designers.
 A custom networking solution for Love2D games, the goal is to 
 utilize Apache Kafka and Elixr to create a light-weight high-speed 
 network.
-
----
-#### Tale of Herrlof
-Derived from Old Norse meaning "praise gained in war" this is planned
-as the first game for the studio. The game will follow the story of
-a viking (potentially MP) as they a left on an island to fend for 
-themselves and battle the monsters of legend. Using fables the player
-will be able to pick up on clues in the region while hunting the monster
-in order to better prepare for the face-off. While focusing on Norse
-mythology, expansions might come to include other cultures lore as 
-hunting destinations.
 
 ---
 #### Black Watch
