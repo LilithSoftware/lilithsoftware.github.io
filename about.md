@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date:   2018-04-17 18:53:00 -0700
+date:   2018-04-17 20:24:00
 permalink: /about/
 ---
 
@@ -12,18 +12,6 @@ various projects.
 
 Our studio makes heavy use of Love2D for all game projects,
 and Aseprite for all art assets. 
-
-Libraries Used by the Studio:
-
-- rotLove by paulofmandown
-- LUIGI by airstruck
-- Gamera by kikito
-- lua-cassandra by kikito
-- anim8 by kikito
-- bump.lua by kikito
-- lilith by LilithSoftware
-- morax by LilithSoftware
-- camio by LilithSoftware
 
 ---
 
