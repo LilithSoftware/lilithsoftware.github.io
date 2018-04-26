@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date:   2018-04-17 20:24:00
+date:   2018-04-25 18:42:00
 permalink: /about/
 ---
 
@@ -21,10 +21,15 @@ and Aseprite for all art assets.
 In addition to his work at Lilith Software, Jordan works
 professionally as a web developer with Ruby on Rails. He is
 also the founder and sole developer for all games. In addition
-to being a developer Jordan also contributes art and music
-to the studio.
+to being a developer Jordan also contributes art to the studio.
+
+#### Daniel - Audio Composer:
+Daniel joined Lilith Software as a hobbyist to provide art 
+for the studio for his own reasons. In exchange the studio
+has provided him with audio production tools to use.
 
 ## Bounty Hunters
 The studio plans to use a network of artists and art bounties
 to enable the artists to gain some side cash while providing
-us with high quality work.
+us with high quality work. (Referencing the Bug Bounty Programs
+used by security teams)
