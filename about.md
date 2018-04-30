@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date:   2018-04-25 18:42:00
+date:   2018-04-29 17:55:00
 permalink: /about/
 ---
 
@@ -17,13 +17,13 @@ and Aseprite for all art assets.
 
 ## Core Team:
 
-#### Jordan - Lead Developer:
+#### Jordan (Kirogama) - Lead Developer:
 In addition to his work at Lilith Software, Jordan works
 professionally as a web developer with Ruby on Rails. He is
 also the founder and sole developer for all games. In addition
 to being a developer Jordan also contributes art to the studio.
 
-#### Daniel - Audio Composer:
+#### Daniel (Fraydin) - Audio Composer:
 Daniel joined Lilith Software as a hobbyist to provide art 
 for the studio for his own reasons. In exchange the studio
 has provided him with audio production tools to use.
